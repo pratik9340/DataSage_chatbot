@@ -4,3 +4,4 @@
 %load_ext sql
 %sql sqlite:///sample.db
 !pip install streamlit
+load_dotenv
