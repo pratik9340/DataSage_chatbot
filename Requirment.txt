@@ -1,8 +1,0 @@
-!pip uninstall -qqy jupyterlab  
-!pip install -U -q "google-genai==1.7.0"
-!pip install kaggle
-%load_ext sql
-%sql sqlite:///sample.db
-!pip install streamlit
-pip install load_dotenv
-pip install google-generativeai
