@@ -1,2 +1,2 @@
 # DataSage_chatbot
-This chat bot is an expert in providing answer to user from the sale data from vast database. 
+This chatbot is an expert in providing answers to users from the sales data in a  vast database. 
